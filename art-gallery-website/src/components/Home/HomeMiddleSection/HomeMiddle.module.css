@@ -1,0 +1,86 @@
+.homeMiddleContainer {
+  padding: 18rem 0;
+  background-color: red;
+}
+
+.gridMiddle {
+  max-width: 111rem;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3rem;
+}
+
+.yourDay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.yourDay h2 {
+  color: var(--color2-black);
+  font-weight: 900;
+  font-size: 6rem;
+  line-height: 6rem;
+  margin-bottom: 3.2rem;
+  text-transform: uppercase;
+}
+
+.yourDay p {
+  font-family: "Outfit", sans-serif;
+  color: var(--color3-grey);
+  font-weight: 300;
+  font-size: 2.2rem;
+  line-height: 3.2rem;
+  width: 35rem;
+}
+
+.gridMiddle img {
+  width: 100%;
+}
+
+.img1 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
+
+.img2 {
+  height: 100%;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.img3 {
+  grid-column-start: 3;
+  grid-row-end: 3;
+}
+
+.comeAndInspired {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: var(--color2-black);
+  padding: 6.5rem 4.7rem;
+  grid-column-start: 3;
+  grid-row-end: 4;
+}
+
+.comeAndInspired h2 {
+  color: var(--color4-white);
+  font-weight: 900;
+  font-size: 6rem;
+  line-height: 6rem;
+  margin-bottom: 3.2rem;
+  text-transform: uppercase;
+}
+
+.comeAndInspired p {
+  font-family: "Outfit", sans-serif;
+  color: var(--color4-white);
+  font-weight: 300;
+  font-size: 2.2rem;
+  line-height: 3.2rem;
+  width: 35rem;
+}

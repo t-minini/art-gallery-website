@@ -19,3 +19,7 @@
     font-size: 62.5%; /* base font size to 10px, to facilitate using REM unit */
     font-family: 'Big Shoulders Display', cursive;
   }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
