@@ -1,6 +1,5 @@
 .homeTopContainer {
   min-height: 80rem;
-  /* background-color: var(--color2-black); */
 }
 
 .topGrid {
@@ -32,7 +31,6 @@
   z-index: -1;
   overflow: hidden;
   white-space: nowrap;
-  /* overflow-x: 10px; */
 }
 
 .homeTopContainer h1:nth-of-type(2) {
@@ -45,7 +43,11 @@
   line-height: 8.8rem;
   text-transform: uppercase;
   z-index: -2;
-  
+}
+.topTextBtn {
+  position: absolute;
+  top: 18.9rem;
+  left: 92.5rem;
 }
 
 .homeTopContainer p {
@@ -54,9 +56,10 @@
   color: var(--color3-grey);
   line-height: 3.2rem;
   width: 35rem;
+  margin-bottom: 6.4rem;
 }
 
-.location {
+.locationBtn {
   display: flex;
 }
 

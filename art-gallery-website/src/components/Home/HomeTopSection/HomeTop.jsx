@@ -20,17 +20,16 @@ export function HomeTop() {
           className={style.heroImg}
         />
       </div>
-
-      <p>
-        The arts in the collection of the Modern Art Gallery all started from a
-        spark of inspiration. Will these pieces inspire you? Visit us and find
-        out.
-      </p>
-      <div>
+      <div className={style.topTextBtn}>
+        <p>
+          The arts in the collection of the Modern Art Gallery all started from
+          a spark of inspiration. Will these pieces inspire you? Visit us and
+          find out.
+        </p>
         <NavLink
           to="/location"
           style={{ textDecoration: "none" }}
-          className={style.location}
+          className={style.locationBtn}
         >
           <button className={style.btn1}>Our Location</button>
           <button className={style.btn2}>
