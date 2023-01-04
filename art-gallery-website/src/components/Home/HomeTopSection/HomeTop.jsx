@@ -12,14 +12,14 @@ export function HomeTop() {
       <h1>
         Modern <br /> Art Gallery
       </h1>
-      <div className={style.topGrid}>
+      {/* <div className={style.topGrid}> */}
         <div className={style.blackBg}></div>
         <img
           src={heroImg}
           alt="a man and a woman standing in front of a paint hanging on a white wall"
           className={style.heroImg}
         />
-      </div>
+      {/* </div> */}
       <div className={style.topTextBtn}>
         <p>
           The arts in the collection of the Modern Art Gallery all started from

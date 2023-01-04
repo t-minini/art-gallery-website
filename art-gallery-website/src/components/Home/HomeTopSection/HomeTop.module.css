@@ -1,21 +1,17 @@
 .homeTopContainer {
-  min-height: 80rem;
-}
-
-.topGrid {
+  height: 80rem;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .blackBg {
-  top: 0;
-  z-index: -4;
   background: var(--color2-black);
 }
 
 .heroImg {
+  height: 100%;
   width: 100%;
-  z-index: -3;
+  object-fit: cover;
 }
 
 .homeTopContainer h1:nth-of-type(1) {
@@ -28,7 +24,6 @@
   color: var(--color4-white);
   line-height: 8.8rem;
   text-transform: uppercase;
-  z-index: -1;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -42,12 +37,11 @@
   color: var(--color2-black);
   line-height: 8.8rem;
   text-transform: uppercase;
-  z-index: -2;
 }
 .topTextBtn {
   position: absolute;
   top: 18.9rem;
-  left: 92.5rem;
+  left: 65%;
 }
 
 .homeTopContainer p {
