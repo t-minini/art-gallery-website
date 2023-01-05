@@ -1,0 +1,46 @@
+.map {
+  max-height: 60rem;
+  width: 100%;
+  object-fit: cover;
+}
+
+.locationBtn {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 12%;
+}
+
+.btn1 {
+  display: flex;
+  justify-content: center; /* for horizontally center */
+  align-items: center; /* for vertically center */
+  border: 0;
+  background-color: var(--color2-black);
+  min-width: 20.4rem;
+  height: 7.2rem;
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: 0.364rem;
+  color: var(--color4-white);
+  line-height: 2.4rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn1:hover {
+  background-color: var(--color1-gold);
+}
+
+.btn2 {
+  border: 0;
+  background: var(--color1-gold);
+  width: 5.6rem;
+  height: 7.2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.btn2:hover {
+  background-color: var(--color2-black);
+}

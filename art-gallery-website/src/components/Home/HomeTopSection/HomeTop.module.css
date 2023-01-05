@@ -1,5 +1,5 @@
 .homeTopContainer {
-  height: 80rem;
+  /* height: 80rem; */
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
@@ -18,7 +18,7 @@
   position: absolute;
   width: 284px;
   left: 14.4%;
-  top: 18.9rem;
+  top: 20%;
   font-weight: 900;
   font-size: 9.6rem;
   color: var(--color4-white);
@@ -31,7 +31,7 @@
 .homeTopContainer h1:nth-of-type(2) {
   position: absolute;
   left: 14.4%;
-  top: 18.9rem;
+  top: 20%;
   font-weight: 900;
   font-size: 9.6rem;
   color: var(--color2-black);
@@ -40,7 +40,7 @@
 }
 .topTextBtn {
   position: absolute;
-  top: 18.9rem;
+  top: 20%;
   left: 63%;
 }
 
