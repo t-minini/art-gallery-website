@@ -1,12 +1,16 @@
-.map {
+.locationTopContainer {
   max-height: 60rem;
+}
+
+.map {
+  height: 60rem;
   width: 100%;
   object-fit: cover;
 }
 
 .locationBtn {
   display: flex;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 12%;
 }
@@ -30,6 +34,7 @@
 
 .btn1:hover {
   background-color: var(--color1-gold);
+  transition: 0.5s;
 }
 
 .btn2 {
@@ -43,4 +48,5 @@
 
 .btn2:hover {
   background-color: var(--color2-black);
+  transition: 0.5s;
 }

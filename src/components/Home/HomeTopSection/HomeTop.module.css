@@ -1,5 +1,4 @@
 .homeTopContainer {
-  /* height: 80rem; */
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
@@ -76,6 +75,7 @@
 
 .btn1:hover {
   background-color: var(--color1-gold);
+  transition: 0.5s;
 }
 
 .btn2 {
@@ -89,4 +89,5 @@
 
 .btn2:hover {
   background-color: var(--color2-black);
+  transition: 0.5s;
 }

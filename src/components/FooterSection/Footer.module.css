@@ -1,0 +1,93 @@
+.footerContainer {
+  height: 24.4rem;
+  width: 100%;
+  background: var(--color2-black);
+  color: var(--color4-white);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 8rem 16.5rem;
+}
+
+.footerContainer h3 {
+  font-size: 3.6rem;
+  line-height: 3.6rem;
+  text-transform: uppercase;
+}
+
+.footerContainer p {
+  font-family: "Outfit", sans-serif;
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  font-weight: 300;
+  min-width: 43rem;
+  max-width: 43rem;
+}
+
+.icons {
+  width: 100%;
+  display: flex;
+  gap: 2rem;
+  justify-content: flex-end;
+  height: 2rem;
+}
+
+.footer_icon:hover path {
+  fill: var(--color1-gold);
+  transition: 0.5s;
+}
+
+.sr_only {
+  border: 0 !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  white-space: nowrap !important;
+  width: 1px !important;
+}
+/* path location style */
+
+.footerContainerLoc {
+  height: 24.4rem;
+  width: 100%;
+  background: var(--color1-gold);
+  color: var(--color2-black);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 8rem 16.5rem;
+}
+
+.footerContainerLoc h3 {
+  font-size: 3.6rem;
+  line-height: 3.6rem;
+  text-transform: uppercase;
+}
+
+.footerContainerLoc p {
+  font-family: "Outfit", sans-serif;
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  font-weight: 300;
+  min-width: 43rem;
+  max-width: 43rem;
+}
+
+.iconsLoc {
+  width: 100%;
+  display: flex;
+  gap: 2rem;
+  justify-content: flex-end;
+  height: 2rem;
+}
+
+.footer_iconLoc path {
+  fill: #000000;
+}
+
+.footer_iconLoc:hover path {
+  fill: white;
+  transition: 0.5s;
+}

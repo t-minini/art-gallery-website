@@ -1,0 +1,49 @@
+.locationMiddleContainer {
+  min-height: 54.8rem;
+  background: var(--color2-black);
+  color: var(--color4-white);
+  padding-top: 10.4rem;
+}
+
+.ourLocation {
+  width: 111rem;
+  height: 31.6rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: auto;
+}
+
+.ourLocation h2 {
+  height: 14rem;
+  width: 35rem;
+  font-size: 7rem;
+  line-height: 7rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.ourLocation h3 {
+  font-size: 3.6rem;
+  line-height: 3.6rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: var(--color1-gold);
+  margin-bottom: 2.4rem;
+}
+
+.ourLocation address {
+  font-size: 2.2rem;
+  line-height: 3.2rem;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  margin-bottom: 3.2rem;
+}
+
+.ourLocation p {
+    width: 54rem;
+    font-size: 2.2rem;
+    line-height: 3.2rem;
+    font-weight: 300;
+    font-family: "Outfit", sans-serif;
+  }
