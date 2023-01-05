@@ -11,9 +11,10 @@
   height: 100%;
   width: 100%;
   object-fit: cover;
+  /* z-index: -1; */
 }
 
-.homeTopContainer h1:nth-of-type(1) {
+.homeTopContainer h1 {
   position: absolute;
   width: 284px;
   left: 14.4%;
@@ -23,11 +24,11 @@
   color: var(--color4-white);
   line-height: 8.8rem;
   text-transform: uppercase;
-  overflow: hidden;
   white-space: nowrap;
+  mix-blend-mode:difference;
 }
 
-.homeTopContainer h1:nth-of-type(2) {
+/* .homeTopContainer h1:nth-of-type(2) {
   position: absolute;
   left: 14.4%;
   top: 20%;
@@ -36,7 +37,7 @@
   color: var(--color2-black);
   line-height: 8.8rem;
   text-transform: uppercase;
-}
+} */
 .topTextBtn {
   position: absolute;
   top: 20%;

@@ -9,9 +9,6 @@ export function HomeTop() {
       <h1>
         Modern <br /> Art Gallery
       </h1>
-      <h1>
-        Modern <br /> Art Gallery
-      </h1>
         <div className={style.blackBg}></div>
         <img
           src={heroImg}
