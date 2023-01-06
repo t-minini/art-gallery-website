@@ -41,9 +41,48 @@
 }
 
 .ourLocation p {
-    width: 54rem;
-    font-size: 2.2rem;
-    line-height: 3.2rem;
-    font-weight: 300;
-    font-family: "Outfit", sans-serif;
+  width: 54rem;
+  font-size: 2.2rem;
+  line-height: 3.2rem;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+}
+
+/* iPad Air 820 x 1180  */
+
+@media (max-width: 820px) {
+
+  .locationMiddleContainer {
+    min-height: 43.6rem;
+    padding-top: 8.8rem;
   }
+
+  .ourLocation {
+    width: 68.9rem;
+    height: 26.8rem;
+  }
+  .ourLocation h2 {
+    height: 1rem;
+    width: 22.3rem;
+    font-size: 5.5rem;
+    line-height: 5rem;
+  }
+
+  .ourLocation h3 {
+    font-size: 3.2rem;
+    line-height: 3.2rem;
+    margin-bottom: 2rem;
+  }
+
+  .ourLocation address {
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+    margin-bottom: 2rem;
+  }
+
+  .ourLocation p {
+    width: 39.8rem;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+  }
+}

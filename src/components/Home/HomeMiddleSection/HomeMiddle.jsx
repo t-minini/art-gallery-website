@@ -9,7 +9,7 @@ export function HomeMiddle() {
       <div className={style.gridMiddle}>
         <div className={style.yourDay}>
           <h2>
-            Your day at <br /> the gallery
+            Your day at the gallery
           </h2>
           <p>
             Wander through our distinct collections and find new insights about
