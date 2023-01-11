@@ -58,4 +58,11 @@
     left: 5%;
   }
 }
+/* iPhone 11 Pro Max / XR 414 x 896  */
+
+@media (max-width: 414px) {
+  .locationBtn {
+    left: 0;
+  }
+}
 

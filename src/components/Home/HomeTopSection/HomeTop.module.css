@@ -112,7 +112,43 @@
     font-size: 1.8rem;
     line-height: 2.8rem;
     width: 33.9rem;
-    margin-bottom: unset;
     margin-bottom: 4.8rem;
+  }
+}
+
+/* iPhone 11 Pro Max / XR 414 x 896  */
+
+@media (max-width: 414px) {
+
+  .homeTopContainer {
+    display: unset;
+  }
+
+  .topTextBtn {
+    margin-left: 8%;
+  }
+
+  .heroImg {
+    height: 24rem;
+  }
+
+  .homeTopContainer h1 {
+    font-size: 6rem;
+    line-height: 5.5rem;
+    margin-bottom: 3.2rem;
+    margin-top: 3.2rem;
+  }
+
+  .homeTopContainer p {
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+    width: 34.3rem;
+    margin-bottom: 3.2rem;
+  }
+
+  .topTextBtn {
+    width: 100%;
+    min-height: 39rem;
+    position: unset;
   }
 }

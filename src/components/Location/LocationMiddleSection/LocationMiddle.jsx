@@ -8,7 +8,7 @@ export function LocationMiddle() {
     <section className={style.locationMiddleContainer}>
       <div className={style.ourLocation}>
         <h2>
-          our <br /> location
+          our location
         </h2>
         <div>
           <h3>99 King Street</h3>
