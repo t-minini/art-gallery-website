@@ -162,7 +162,7 @@
   }
 
   .topTextBtn {
-    margin-left: 8%;
+    margin: auto;
   }
 
   .heroImg {
@@ -184,7 +184,7 @@
   }
 
   .topTextBtn {
-    width: 100%;
+    width: 34.3rem;
     min-height: 39rem;
     position: unset;
   }
