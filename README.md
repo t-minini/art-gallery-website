@@ -14,20 +14,20 @@ Users should be able to:
 
 ### Desktop
 
-![desktop screenshot 1](./../art-gallery-website/src/assets/screenshot/desktop-screenshot-1.png)
-![desktop screenshot 2](./../art-gallery-website/src/assets/screenshot/desktop-screenshot-2.png)
-![desktop screenshot 3](./../art-gallery-website/src/assets/screenshot/desktop-screenshot-3.png)
+![desktop screenshot 1](../art-gallery-website/src/assets/screenshot/desktop-screenshot-1.png)
+![desktop screenshot 2](../art-gallery-website/src/assets/screenshot/desktop-screenshot-2.png)
+![desktop screenshot 3](../art-gallery-website/src/assets/screenshot/desktop-screenshot-3.png)
 
 ### Tablet - iPad Air
 
-![tablet screenshot 1](./../art-gallery-website/src/assets/screenshot/tablet-screenshot-1.png)
-![tablet screenshot 2](./../art-gallery-website/src/assets/screenshot/tablet-screenshot-2.png)
+![tablet screenshot 1](../art-gallery-website/src/assets/screenshot/tablet-screenshot-1.png)
+![tablet screenshot 2](../art-gallery-website/src/assets/screenshot/tablet-screenshot-2.png)
 
 ### Mobile - iPhone 11 Pro Max
 
-![mobile screenshot 1](./../art-gallery-website/src/assets/screenshot/mobile-screenshot-1.png)
-![mobile screenshot 2](./../art-gallery-website/src/assets/screenshot/mobile-screenshot-2.png)
-![mobile screenshot 3](./../art-gallery-website/src/assets/screenshot/mobile-screenshot-3.png)
+![mobile screenshot 1](../art-gallery-website/src/assets/screenshot/mobile-screenshot-1.png)
+![mobile screenshot 2](../art-gallery-website/src/assets/screenshot/mobile-screenshot-2.png)
+![mobile screenshot 3](../art-gallery-website/src/assets/screenshot/mobile-screenshot-3.png)
 
 ### Links
 
