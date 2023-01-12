@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Desktop
 
-![desktop screenshot 1](../art-gallery-website/src/assets/screenshot/desktop-screenshot-1.png)
+![desktop screenshot 1](./public/screenshots/desktop-screenshot-1.png)
 ![desktop screenshot 2](../art-gallery-website/src/assets/screenshot/desktop-screenshot-2.png)
 ![desktop screenshot 3](../art-gallery-website/src/assets/screenshot/desktop-screenshot-3.png)
 
