@@ -15,19 +15,19 @@ Users should be able to:
 ### Desktop
 
 ![desktop screenshot 1](./public/screenshots/desktop-screenshot-1.png)
-![desktop screenshot 2](../art-gallery-website/src/assets/screenshot/desktop-screenshot-2.png)
-![desktop screenshot 3](../art-gallery-website/src/assets/screenshot/desktop-screenshot-3.png)
+![desktop screenshot 2](./public/screenshots/desktop-screenshot-2.png)
+![desktop screenshot 3](./public/screenshots/desktop-screenshot-3.png)
 
 ### Tablet - iPad Air
 
-![tablet screenshot 1](../art-gallery-website/src/assets/screenshot/tablet-screenshot-1.png)
-![tablet screenshot 2](../art-gallery-website/src/assets/screenshot/tablet-screenshot-2.png)
+![tablet screenshot 1](./public/screenshots/tablet-screenshot-1.png)
+![tablet screenshot 2](./public/screenshots/tablet-screenshot-2.png)
 
 ### Mobile - iPhone 11 Pro Max
 
-![mobile screenshot 1](../art-gallery-website/src/assets/screenshot/mobile-screenshot-1.png)
-![mobile screenshot 2](../art-gallery-website/src/assets/screenshot/mobile-screenshot-2.png)
-![mobile screenshot 3](../art-gallery-website/src/assets/screenshot/mobile-screenshot-3.png)
+![mobile screenshot 1](./public/screenshots/mobile-screenshot-1.png)
+![mobile screenshot 2](./public/screenshots/mobile-screenshot-2.png)
+![mobile screenshot 3](./public/screenshots/mobile-screenshot-3.png)
 
 ### Links
 
@@ -45,7 +45,8 @@ Users should be able to:
 
 ### What I learned
 
-With this challenge I could practice a little bit more the use of CSS Grid and learn how to apply the userLocation react hook.
+- Practice a little bit more the use of CSS Grid
+- How to apply the userLocation react hook
 
 ### Useful resources
 
