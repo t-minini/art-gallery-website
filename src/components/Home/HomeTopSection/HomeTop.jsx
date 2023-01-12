@@ -32,6 +32,18 @@ export function HomeTop() {
               <img src={arrowRight} alt="arrow right icon" />
             </button>
           </NavLink>
+          {/* <NavLink
+            to="/location"
+            style={{ textDecoration: "none" }}
+            className={style.locationBtn}
+          >
+            <button className={style.btn3}>
+              &nbsp;&nbsp;&nbsp;&nbsp;Our Location&nbsp;&nbsp;&nbsp;&nbsp;
+              <span className={style.btn4}>
+                <img src={arrowRight} alt="arrow right icon" />
+              </span>
+            </button>
+          </NavLink> */}
         </div>
       </div>
     </section>

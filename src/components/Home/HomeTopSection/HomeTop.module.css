@@ -63,6 +63,23 @@
   cursor: pointer;
 }
 
+/* .btn3 {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  border: 0;
+  background: var(--color2-black);
+  min-width: 26rem;
+  height: 7.2rem;
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: 0.364rem;
+  color: var(--color4-white);
+  line-height: 2.4rem;
+  text-transform: uppercase;
+  cursor: pointer;
+} */
+
 .btn1:hover {
   background-color: var(--color1-gold);
   transition: 0.5s;
@@ -76,6 +93,27 @@
   text-align: center;
   cursor: pointer;
 }
+
+/* .btn4 {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  border: 0;
+  background: var(--color1-gold);
+  width: 5.6rem;
+  height: 7.2rem;
+  text-align: center;
+  cursor: pointer;
+} */
+
+/* .btn4 img {
+  height: 2.4rem;
+} */
+
+/* .btn3:hover{
+  background: var(--color1-gold);
+  transition: 0.5s;
+} */
 
 .btn2:hover {
   background-color: var(--color2-black);
@@ -119,7 +157,6 @@
 /* iPhone 11 Pro Max / XR 414 x 896  */
 
 @media (max-width: 414px) {
-
   .homeTopContainer {
     display: unset;
   }
