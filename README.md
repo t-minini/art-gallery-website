@@ -44,6 +44,7 @@ Users should be able to:
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
 - React Hooks
+- Finished in 16 hours
 
 ### What I learned
 
