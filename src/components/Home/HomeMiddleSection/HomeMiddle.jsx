@@ -5,7 +5,7 @@ import img3 from "./../../../assets/desktop/image-grid-3@2x.jpg";
 
 export function HomeMiddle() {
   return (
-    <section className={style.homeMiddleContainer}>
+    <main className={style.homeMiddleContainer}>
       <div className={style.gridMiddle}>
         <div className={style.yourDay}>
           <h2>
@@ -42,6 +42,6 @@ export function HomeMiddle() {
           </p>
         </div>
       </div>
-    </section>
+    </main>
   );
 }

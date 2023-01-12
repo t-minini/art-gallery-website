@@ -5,7 +5,7 @@ import heroImg from "./../../../assets/desktop/image-hero@2x.jpg";
 
 export function HomeTop() {
   return (
-    <section className={style.homeTopContainer}>
+    <header className={style.homeTopContainer}>
       <div className={style.blackBg}></div>
       <img
         src={heroImg}
@@ -27,10 +27,10 @@ export function HomeTop() {
             style={{ textDecoration: "none" }}
             className={style.locationBtn}
           >
-            <button className={style.btn1}>Our Location</button>
-            <button className={style.btn2}>
+            <span className={style.btn1}>Our Location</span>
+            <span className={style.btn2}>
               <img src={arrowRight} alt="arrow right icon" />
-            </button>
+            </span>
           </NavLink>
           {/* <NavLink
             to="/location"
@@ -46,6 +46,6 @@ export function HomeTop() {
           </NavLink> */}
         </div>
       </div>
-    </section>
+    </header>
   );
 }

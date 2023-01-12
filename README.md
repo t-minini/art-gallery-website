@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL [Here!](https://your-solution-url.com)
+- Solution URL [Here!](https://www.frontendmentor.io/solutions/art-gallery-website-uuPbDoINcK)
 - Live Site URL [Here!](https://modern-art-gallery-tm.netlify.app/)
 
 ### Built with

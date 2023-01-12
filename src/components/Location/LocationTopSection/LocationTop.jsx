@@ -5,7 +5,7 @@ import arrowLeft from "./../../../assets/icon-arrow-left.svg";
 
 export function LocationTop() {
   return (
-    <section className={style.locationTopContainer}>
+    <header className={style.locationTopContainer}>
       <img
         src={map}
         alt="map location for the Modern Art Gallery"
@@ -16,11 +16,11 @@ export function LocationTop() {
         style={{ textDecoration: "none" }}
         className={style.locationBtn}
       >
-        <button className={style.btn2}>
+        <span className={style.btn2}>
           <img src={arrowLeft} alt="arrow left icon" />
-        </button>
-        <button className={style.btn1}>back to home</button>
+        </span>
+        <span className={style.btn1}>back to home</span>
       </NavLink>
-    </section>
+    </header>
   );
 }

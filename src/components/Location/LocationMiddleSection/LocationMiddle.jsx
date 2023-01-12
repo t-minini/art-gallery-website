@@ -5,7 +5,7 @@ import style from "./LocationMiddle.module.css";
 export function LocationMiddle() {
   
   return (
-    <section className={style.locationMiddleContainer}>
+    <main className={style.locationMiddleContainer}>
       <div className={style.ourLocation}>
         <h2>
           our location
@@ -23,6 +23,6 @@ export function LocationMiddle() {
           </p>
         </div>
       </div>
-    </section>
+    </main>
   );
 }

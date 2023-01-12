@@ -1,4 +1,5 @@
 .homeTopContainer {
+  height: 80rem;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
@@ -14,7 +15,6 @@
 }
 
 .homeTopContainer h1 {
-  top: 20%;
   font-weight: 900;
   font-size: 9.6rem;
   color: var(--color4-white);
@@ -26,7 +26,7 @@
 .topTextBtn {
   width: 100%;
   position: absolute;
-  top: 20%;
+  margin-top: 18.9rem;
   display: flex;
   justify-content: space-evenly;
   align-items: flex-start;
@@ -50,7 +50,6 @@
   display: flex;
   justify-content: center; /* for horizontally center */
   align-items: center; /* for vertically center */
-  border: 0;
   background-color: var(--color2-black);
   min-width: 20.4rem;
   height: 7.2rem;
@@ -86,7 +85,9 @@
 }
 
 .btn2 {
-  border: 0;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
   background: var(--color1-gold);
   width: 5.6rem;
   height: 7.2rem;
