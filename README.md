@@ -26,7 +26,9 @@ Users should be able to:
 ### Mobile - iPhone 11 Pro Max
 
 ![mobile screenshot 1](./public/screenshots/mobile-screenshot-1.png)
+
 ![mobile screenshot 2](./public/screenshots/mobile-screenshot-2.png)
+
 ![mobile screenshot 3](./public/screenshots/mobile-screenshot-3.png)
 
 ### Links
