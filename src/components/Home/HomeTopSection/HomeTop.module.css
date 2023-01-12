@@ -143,7 +143,6 @@
   .topTextBtn {
     width: max-content;
     flex-direction: column;
-    top: 15%;
     left: 55%;
   }
 
